@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Pratima Kandel 👋
 
-<!--
-**Pratima-Kandel/Pratima-Kandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Business Analytics Graduate Student at Webster University
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into meaningful business insights. Currently pursuing my Master's in Business Analytics, I love solving real-world business problems through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+
+- 📊 **Microsoft Power BI** — Interactive Dashboards
+- 📈 **Tableau** — Business Intelligence & Storytelling
+- 📋 **Microsoft Excel** — Advanced Formulas, Pivot Tables, Regression
+- 💼 **SAP** — Integrated Business Processes
+- 🤖 **Machine Learning** — Predictive Analytics with RapidMiner
+
+---
+
+## 📊 Featured Projects
+
+🏨 **Hotel Reservation Dashboard** (Power BI) — Analyzed 3,930 bookings & $1.86M revenue
+
+📈 **Customer Journey Dashboard** (Power BI) — Marketing analytics across platforms
+
+🗺️ **Regional Sales Story** (Tableau) — Geographic profit analysis
+
+🤖 **Loan Prediction Model** — Machine Learning with **91% accuracy**
+
+📊 **Customer Forecasting** (Excel) — Regression analysis (R² = 0.72)
+
+---
+
+## 📫 How to Reach Me
+
+- 📍 **Location:** St. Louis, MO
+- 🎓 **University:** Webster University
+- 💼 **Open to:** Business Analyst, Data Analyst, Marketing Analyst roles
+
+---
+
+⭐ *Check out my repositories below!*
