@@ -35,6 +35,8 @@ I'm passionate about transforming raw data into meaningful business insights. Cu
 - 📍 **Location:** St. Louis, MO
 - 🎓 **University:** Webster University
 - 💼 **Open to:** Business Analyst, Data Analyst, Marketing Analyst roles
+- 📧 **Email:** pratimakandel567@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/pratima92](https://www.linkedin.com/in/pratima92/)
 
 ---
 
