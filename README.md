@@ -10,9 +10,9 @@
 
 <br>
 
-I'm a Business Analyst with an MS in Business Analytics from Webster University. My background spans banking operations and compliance, e-commerce analytics, and hands-on projects in Power BI, Tableau, and machine learning. I genuinely enjoy spending my day playing with data — finding the patterns hiding in messy numbers and turning them into something a business can actually act on.
+I'm a Business Analyst with an MS in Business Analytics from Webster University. My background spans banking operations and compliance, e-commerce analytics, and hands-on projects in Power BI, Tableau, and machine learning. I genuinely enjoy spending my day playing with data finding the patterns hiding in messy numbers and turning them into something a business can actually act on.
 
-I'm currently applying these skills as a Business Analyst at TGP Sports, and I'm open to full-time Business Analyst and Data Analyst roles in St. Louis, MO and open to relocation.
+I'm currently applying these skills as a Business Analyst at TGP Sports, and I'm open to full-time Business Analyst, Data Analyst, and other analytics roles in St. Louis, MO and open to relocation.
 
 <br>
 
