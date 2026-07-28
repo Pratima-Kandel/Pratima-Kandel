@@ -49,6 +49,6 @@ I'm currently applying these skills as a Business Analyst at TGP Sports, and I'm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratima92)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratimakandel567@gmail.com)
 
-📧 [pratimakandel567@gmail.com](mailto:pratimakandel567@gmail.com)
+[pratimakandel567@gmail.com](mailto:pratimakandel567@gmail.com)
 
 </div>
