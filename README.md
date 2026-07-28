@@ -1,43 +1,25 @@
-# Hi there, I'm Pratima Kandel 👋
+### Hi, I'm Pratima Kandel
 
-## 🎓 Business Analytics Graduate Student at Webster University
+I'm a Business Analyst with an MS in Business Analytics from Webster University. My background spans banking operations and compliance, e-commerce analytics, and hands-on projects in Power BI, Tableau, and machine learning. I like taking messy, disconnected data and turning it into something a business can actually act on.
 
-I'm passionate about transforming raw data into meaningful business insights. Currently pursuing my Master's in Business Analytics, I love solving real-world business problems through data.
+I'm currently applying these skills as a Business Analyst at TGP Sports, and I'm open to full-time Business Analyst and Data Analyst roles.
 
----
+### Tools I work with
 
-## 🛠️ Tools & Technologies
+Power BI (DAX), Tableau, Microsoft Excel, SAP S/4HANA, RapidMiner
 
-- 📊 **Microsoft Power BI** — Interactive Dashboards
-- 📈 **Tableau** — Business Intelligence & Storytelling
-- 📋 **Microsoft Excel** — Advanced Formulas, Pivot Tables, Regression
-- 💼 **SAP** — Integrated Business Processes
-- 🤖 **Machine Learning** — Predictive Analytics with RapidMiner
+### A few projects worth a look
 
----
+- **Hotel Reservation Dashboard** (Power BI) — analyzed 3,930 bookings and $1.86M in revenue
+- **Loan Prediction Model** (Machine Learning) — 91% accuracy predicting loan acceptance
+- **Regional Sales Story** (Tableau) — profit analysis across US states
+- **Customer Journey Dashboard** (Power BI) — marketing analytics across platforms
+- **Customer Forecasting** (Excel) — regression analysis, R² = 0.72
 
-## 📊 Featured Projects
+### Reach me
 
-🏨 **Hotel Reservation Dashboard** (Power BI) — Analyzed 3,930 bookings & $1.86M revenue
+St. Louis, MO
+pratimakandel567@gmail.com
+[linkedin.com/in/pratima92](https://www.linkedin.com/in/pratima92)
 
-📈 **Customer Journey Dashboard** (Power BI) — Marketing analytics across platforms
-
-🗺️ **Regional Sales Story** (Tableau) — Geographic profit analysis
-
-🤖 **Loan Prediction Model** — Machine Learning with **91% accuracy**
-
-📊 **Customer Forecasting** (Excel) — Regression analysis (R² = 0.72)
-
----
-
-## 📫 How to Reach Me
-
-- 📍 **Location:** St. Louis, MO
-- 🎓 **University:** Webster University
-- 💼 **Open to:** Business Analyst, Data Analyst, Marketing Analyst roles
-- 📧 **Email:** pratimakandel567@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/pratima92](https://www.linkedin.com/in/pratima92/)
-
----
-
-⭐ *Check out my repositories below!*
+Feel free to check out my repositories below.
